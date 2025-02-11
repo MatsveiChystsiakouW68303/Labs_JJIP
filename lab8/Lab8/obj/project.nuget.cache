@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QC1C2HNQQg4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\motei\\source\\repos\\Lab8\\Lab8.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\motei\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
