@@ -1,0 +1,4 @@
+C:\Users\motei\source\repos\lab5\obj\Debug\net8.0\lab5.fsproj.AssemblyReference.cache
+C:\Users\motei\source\repos\lab5\obj\Debug\net8.0\lab5.AssemblyInfoInputs.cache
+C:\Users\motei\source\repos\lab5\obj\Debug\net8.0\lab5.AssemblyInfo.fs
+C:\Users\motei\source\repos\lab5\obj\Debug\net8.0\lab5.fsproj.CoreCompileInputs.cache
